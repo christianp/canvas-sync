@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-VERSION = "0.0.3"
+VERSION = "1.0.0"
 
 import argparse
 import canvasapi
